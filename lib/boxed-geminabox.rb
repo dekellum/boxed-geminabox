@@ -14,6 +14,8 @@
 # permissions and limitations under the License.
 #++
 
+require 'fileutils'
+
 require 'fishwife'
 require 'hooker'
 
@@ -49,7 +51,11 @@ module Boxed::Geminabox
     def geminabox_app
       ::Geminabox.tap do |box|
         box.data = './data'
+
         Hooker.apply( [ :bgb, :geminabox ], box )
+
+        # Make our data dir if it doesn't already exist
+        FileUtils.mkdir_p( box.data, :mode => 0755 )
       end
     end
 
