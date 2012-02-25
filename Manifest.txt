@@ -1,0 +1,10 @@
+History.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+bin/boxed-geminabox-fg
+config/config.rb
+config/jobs.rb
+init/boxed-geminabox
+lib/boxed-geminabox/base.rb
+lib/boxed-geminabox.rb

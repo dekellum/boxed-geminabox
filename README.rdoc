@@ -1,0 +1,45 @@
+= boxed-geminabox
+
+* http://github.com/dekellum/boxed-geminabox
+
+== Description
+
+A complete, boxed, and ready to run
+geminabox[http://tomlea.co.uk/p/gem-in-a-box] deamon on
+fishwife[https://github.com/dekellum/fishwife#readme], jetty, jruby.
+Install via `gem`, then launch via command line or, with monitoring,
+via Iyyov[https://github.com/dekellum/iyyov#readme].
+
+== License
+
+Copyright (c) 2012 David Kellum
+
+Licensed under the Apache License, Version 2.0 (the "License"); you
+may not use this file except in compliance with the License.  You
+may obtain a copy of the License at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied.  See the License for the specific language governing
+permissions and limitations under the License.
+
+=== Geminabox
+
+* http://tomlea.co.uk/p/gem-in-a-box
+* https://github.com/cwninja/geminabox
+* http://tomlea.co.uk/WTFBPPL.txt
+
+DO WHAT THE FUCK YOU WANT TO + BEER/PIZZA PUBLIC LICENSE
+Version 1, May 2011
+
+Copyright (C) 2011 Tom Lea
+
+DO WHAT THE FUCK YOU WANT TO + BEER/PIZZA PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHAT THE FUCK YOU WANT TO.
+1. If you make a substantial amount of money by exercising clause 0,
+   you should consider buying the author a beer or a pizza.
