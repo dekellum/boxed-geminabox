@@ -23,6 +23,7 @@ GEM
     jruby-openssl (0.7.6.1)
       bouncy-castle-java (>= 1.5.0146.1)
     json (1.6.5-java)
+    minitest (2.11.2)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -50,4 +51,5 @@ PLATFORMS
 
 DEPENDENCIES
   boxed-geminabox!
+  minitest (~> 2.11.2)
   rjack-tarpit (~> 2.0)
