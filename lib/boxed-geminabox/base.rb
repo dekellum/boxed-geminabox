@@ -16,7 +16,7 @@
 
 module Boxed
   module Geminabox
-    VERSION = '1.0.b'
+    VERSION = '1.0.b.0'
     LIB_DIR = File.dirname( __FILE__ )
   end
 end
