@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    boxed-geminabox (1.0.0-java)
+    boxed-geminabox (1.1.0-java)
       fishwife (~> 1.3.0)
       geminabox (~> 0.5.2)
       hooker (~> 1.0.0)

@@ -23,7 +23,7 @@
 #++
 
 require 'rubygems'
-gem( 'boxed-geminabox', '= 1.0.0' )
+gem( 'boxed-geminabox', '= 1.1.0' )
 
 module BinScript
 
