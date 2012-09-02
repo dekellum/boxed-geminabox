@@ -8,3 +8,4 @@ config/jobs.rb
 init/boxed-geminabox
 lib/boxed-geminabox/base.rb
 lib/boxed-geminabox.rb
+test/test_server.rb
