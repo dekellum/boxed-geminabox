@@ -5,10 +5,10 @@
 == Description
 
 A complete, boxed, and ready to run
-geminabox[http://tomlea.co.uk/p/gem-in-a-box] deamon on
-fishwife[https://github.com/dekellum/fishwife#readme], jetty, jruby.
+{geminabox}[http://tomlea.co.uk/p/gem-in-a-box] deamon on
+{fishwife}[https://github.com/dekellum/fishwife#readme], jetty, jruby.
 Install via `gem`, then launch via command line or, with monitoring,
-via Iyyov[https://github.com/dekellum/iyyov#readme].
+via {Iyyov}[https://github.com/dekellum/iyyov#readme].
 
 == License
 
