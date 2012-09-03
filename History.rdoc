@@ -1,4 +1,5 @@
-=== 1.0.0 (TBD)
+=== 1.0.0 (2012-9-2)
+* Update/narrow to rjack-jetty ~> 7.6.5
 
 === 1.0.b.0 (2012-2-25)
 * Initial release
