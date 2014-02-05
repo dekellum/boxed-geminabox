@@ -2,11 +2,15 @@ PATH
   remote: .
   specs:
     boxed-geminabox (1.1.0-java)
+      builder (~> 3.2.2)
       fishwife (~> 1.5.2)
       geminabox (~> 0.12.2)
       hooker (~> 1.1.0)
+      httpclient (~> 2.3.4)
+      nesty (~> 1.0.2)
       rjack-jetty (~> 9.1.1)
       rjack-logback (~> 1.6)
+      sinatra (~> 1.4.1)
 
 GEM
   remote: https://rubygems.org/
